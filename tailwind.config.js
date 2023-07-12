@@ -19,6 +19,7 @@ module.exports = {
         veryPaleRed: 'hsl(13, 100%, 96%)',
         veryLightGray: 'hsl(0, 0%, 98%)',
         blockRed: "red",
+        
       },
     },
   },
